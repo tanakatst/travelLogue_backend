@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "serene-boulder-366908",
+  "private_key_id": "e09a2054a22966899acea50bce391f85eb85558f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC6CgouUuarLplC\nCfAlMEbChjf2pxF46KbZ+xYoya0cR/jWC/Qq+eovIdt/8qa6rtDjfbXohMNAcRb7\nxNW993bZALssLokLgchTTbuZTUzWm9wzR2XJuOMgoHaOairGYMePOrpb1iQ4wvwJ\neLpn1lY8tiGnZy79ilx/TvNlhlLb157Jdb3P/Hy/kbR9sEAX9Ry1h/l75kKt3s8J\nkbO+K2FyY+lAO23DblVnH33cOPUJlhC7wG/DVbq5O+vCfxlLNuPW6N/iieWUUADp\nALB/j5/RwK+ilTJC7aJiv5WZP1lR3jbl40c2hr3wXMge+B2Ceg6K56OZ52KLzMI4\ntRRQjWsvAgMBAAECggEAJjVxqdn07it/5oRMAhdMMR+H1uyxNffybMqY3n+tQiW2\nAaAq4bi6VDvL7RdVDvpghJiJB9xcjZuscMEYdQ+iJSd1Sbm1A9v/3LwWT4IEyf7w\n1sdPLIMAgu7x6oX7iwrNcalKJRpyDgZd5UQaZMEsrQNrHgqfKAuGu87nRm60Ddp9\nXi8e7uT+j7YEhyeu0lJdkmzTgOUTAGRulRcldiqb8c8ogrAHel5JcOBuv9YXLuhc\n6c6O3M65Rqm0ZYATISB5tv2H2AoaieF3NQnrPTfJwAUL5ej8XePKHfNxYzAmsQ+P\nFVZxt4duOQxcmwv/Gqo+dSZg+Ddm9JOde1SN6XkwYQKBgQDhN8Q7ukheE96H4VA/\nQGgVeLfv3xsgpX4pcm8uO7DO33z9GD4uHEePFJzAHZBqwoEXmJ2+FoemPx/YO03x\neSiOqwPR36Ubo91cJDDt4rTfmo2ocjV3sIebf+VCqPwRNFp10eKHbGwCkFXptw7K\nwJO09cfKpuflyE06Jk+Xpn9LiwKBgQDTd2/7/5EFP1rYERLSxvGHQrN4zgEmV1tD\nzVhV77lyw/0rQ+Y7bE9nUVV7efHSOk9AdNpBeR5NR8QSoVqHlDZyjCWXJhSXpwh+\nwjQZ0E0dVn1u5vFMIQpaibyXIToxWFsM1YOyNc7ZfhqxiBSlepb64LqzUVOlAkoC\nk4lyqNrjbQKBgQCOMEcT7mgB/UlhQD8JsAAGjlCSgKj/03vzbuwCpGzcLv0aTVP0\niKYlDz5njELBJEucOh5dBJxfuTrBqa9r5LJWYGHo/umeqbX3lmHNznOjOFB3KKPZ\nDPqQkg6MJ2P8+LCj8f6ywSDv/XBAPfJ4z1xxwzqAFyARUoRvUgCuHdAAQQKBgDsk\nR0yKMGvwSR7uv331p+01aW5a5xVrDxpKXu9B6XLAf5jPF5/87cQuiiLLeydZqXqU\nc8ol7qSccqjnOaN7fzLQIV9BhjbXv1d8RwgFKtwOqWwP6OJqxzOFHBqEb3sHhAd1\n26xGwkAvtZV7QpL5Uyp9GZo3H5ahqkNIMgPAV9+NAoGAGWRpkzsGpy2UkSgblGyA\n0Q4JnEYhBsopux8PjtnZyKCPFjq1a1hm0d5ph4sq95lGQQUk81Sf2uYtSs6jEDuz\nFshUX1pDEU2WpMAD9t/mwnRkjXDMQHa2gscamrBvnZrJA+mnjQHSVwsFMX7kH3gh\nFbFOr7ptQC8vkvYUYwwGZkw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "travellogue@serene-boulder-366908.iam.gserviceaccount.com",
+  "client_id": "112409568189186340819",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/travellogue%40serene-boulder-366908.iam.gserviceaccount.com"
+}
